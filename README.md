@@ -58,7 +58,7 @@ Possible lecturers include Joanna Bryson (Hertie School) on the topic of general
 Students will read,  present,  and think about latest research from the reading list which is published in AI  and  ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.  
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
 
-- Choose a paper related to the subject of the previous lecture from the reading list
+- Choose a paper related to the subject of the previous lecture from the [reading list](https://docs.google.com/document/d/1oL3aBkflgKoGymlpFqhx81fXZrKKOWh0lk2PfPTCdDU/edit?usp=sharing)
 - Read the paper before the discussion and prepare some questions to be discussed
 
 ### Discussion
