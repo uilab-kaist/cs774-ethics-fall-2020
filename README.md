@@ -28,9 +28,9 @@ According to the policy of South Korea government and KAIST against the COVID-19
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 08/31, 09/02              |           -           | Introduction, Bias of AI/ML Systems                            | Online Lecture |                            |
-|   2   | 09/07, 09/09              | Lecture  1 Discussion 1 | Bias of AI/ML Systems                                          |                |                            |
-|   3   | 09/14, 09/16              | Lecture  2 Discussion 2 | NLP for detecting Bias                                         |                |                            |
-|   4   | 09/21, 09/23              | Lecture  3 Discussion 3 | NLP for detecting Bias                                         |                |                            |
+|   2   | 09/07, 09/09              | Lecture  1<br/> Discussion 1 | Bias of AI/ML Systems                                          |                |                            |
+|   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                         |                |                            |
+|   4   | 09/21, 09/23              | Lecture  3<br/> Discussion 3 | NLP for detecting Bias                                         |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                             | 09/30 Holiday  | Introduction, Team matching |
 |   6   | 10/05, 10/07              | Lecture  4 Discussion 4 | AI for Social Good                                             |                |                            |
 |   7   | 10/12, 10/14              | Lecture  5 Discussion 5 | AI for Social Good                                              |                |                            |
