@@ -32,14 +32,14 @@ According to the policy of South Korea government and KAIST against the COVID-19
 |   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                         |                |                            |
 |   4   | 09/21, 09/23              | Lecture  3<br/> Discussion 3 | NLP for detecting Bias                                         |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                             | 09/30 Holiday  | Introduction, Team matching |
-|   6   | 10/05, 10/07              | Lecture  4 Discussion 4 | AI for Social Good                                             |                |                            |
-|   7   | 10/12, 10/14              | Lecture  5 Discussion 5 | AI for Social Good                                              |                |                            |
+|   6   | 10/05, 10/07              | Lecture  4<br/> Discussion 4 | AI for Social Good                                             |                |                            |
+|   7   | 10/12, 10/14              | Lecture  5<br/> Discussion 5 | AI for Social Good                                              |                |                            |
 |   8   | 10/19, 10/22              |           -           | AI as Big Brother                                              |                   | Proposal, Peer-review                   |
-|   9   | 10/26, 10/28              | Lecture  6 Discussion 6 | AI as Big Brother                                 |                |                 |
-|   10  | 11/02, 11/04              | Lecture  7 Discussion 7 | Effect on Jobs and Economy                                     |                |                            |
-|   11  | 11/09, 11/11              | Lecture  8 Discussion  9 | Effect on Jobs and Economy                                  |                |                            |
-|   12  | 11/16, 11/18              | Lecture 10 Discussion 10 | Interpretability and Fairness                                  |                | Progress Update, Peer-review                |
-|   13  | 11/23, 11/25              | Lecture 11 Discussion 11 | Interpretability and Fairness                               |                |                     |
+|   9   | 10/26, 10/28              | Lecture  6<br/> Discussion 6 | AI as Big Brother                                 |                |                 |
+|   10  | 11/02, 11/04              | Lecture  7<br/> Discussion 7 | Effect on Jobs and Economy                                     |                |                            |
+|   11  | 11/09, 11/11              | Lecture  8<br/> Discussion  8 | Effect on Jobs and Economy                                  |                |                            |
+|   12  | 11/16, 11/18              | Lecture 9<br/> Discussion 9 | Interpretability and Fairness                                  |                | Progress Update, Peer-review                |
+|   13  | 11/23, 11/25              | Lecture 10<br/> Discussion 10 | Interpretability and Fairness                               |                |                     |
 | 14, 15 | 11/30, 12/02 12/07, 12/09 |           -           | Project presentation                                          |                |                            |
 |   16  | 12/14, 12/16              |           -           | No final                                                       |     No Class   | Final presentation Peer-review          |
 
