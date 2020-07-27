@@ -8,7 +8,7 @@ According to the policy of South Korea government and KAIST against the COVID-19
 
 ## Teaching Staff
 
-- Lecturer: Alice Oh
+- Lecturer: [Alice Oh](https://aliceoh9.github.io/)
 - TA: Jaimeen Ahn
 - Contact: cs774.ethics.uilab@gmail.com
 
