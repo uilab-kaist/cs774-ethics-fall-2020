@@ -32,7 +32,7 @@ According to the policy of South Korea government and KAIST against the COVID-19
 |   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                         |                |                            |
 |   4   | 09/21, 09/23              | Lecture  3<br/> Discussion 3 | NLP for detecting Bias                                         |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                             | 09/30 Holiday  | Introduction, Team matching |
-|   6   | 10/05, 10/07              | Lecture  4<br/> Discussion 4 | AI for Social Good                                             |                |                            |
+|   6   | 10/05, 10/07              | Lecture  4<br/> Discussion 4 | AI for Social Good                                             | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
 |   7   | 10/12, 10/14              | Lecture  5<br/> Discussion 5 | AI for Social Good                                              |                |                            |
 |   8   | 10/19, 10/22              |           -           | AI as Big Brother                                              |                   | Proposal, Peer-review                   |
 |   9   | 10/26, 10/28              | Lecture  6<br/> Discussion 6 | AI as Big Brother                                 |                |                 |
