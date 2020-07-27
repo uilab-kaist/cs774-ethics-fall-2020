@@ -68,9 +68,9 @@ Students will lead peers to discuss the readings with thought-provoking question
 You will challenge the findings in the articles as to their accurate reporting and interpretation;  you will discuss relevance to the current time and various locales with different cultural backgrounds.  
 You will present and discuss ideas for future research directions in AI and ethics.
 
-- n in-class discussion (see schedule)
+- 16 in-class discussion (see schedule)
 - Organize a group of 3~4 people, and have time to present what you read and discuss
-- (All/Half) of groups present your discussion result to the peers at the end of class
+- (All/Half) of groups present your discussion result to the peers at the end of class (depends on registration)
 
 ### Team Projects
 
@@ -83,7 +83,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 
  **If you actively and honestly participate in every discussion and project you will get at least B**
 
-* x In-Class Discussion : 40%
+* 16 In-Class Discussion : 40%
 
 * Project : 50%
   * Team work: x%
