@@ -12,7 +12,7 @@
 
 ## Time & Location
 - Mon/Wed 13:00 - 14:30
-- #2111, E3-1 (Information Science and Electronics Bldg.)
+- ~#2111, E3-1 (Information Science and Electronics Bldg.)~ ZOOM
 - If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm
 
 ## Prerequisites  
