@@ -27,19 +27,19 @@ According to the policy of South Korea government and KAIST against the COVID-19
 
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | 08/31, 09/02              |           -           | Introduction, Bias of AI/ML Systems                            | Online Lecture |                            |
+|   1   | 08/31, 09/02              |          -        | Introduction, Bias of AI/ML Systems                            | Online Lecture |                            |
 |   2   | 09/07, 09/09              | Lecture  1<br/> Discussion 1 | Bias of AI/ML Systems                                          |                |                            |
 |   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                         |                |                            |
-|   4   | 09/21, 09/23              | Lecture  3<br/> Discussion 3 | NLP for detecting Bias                                         |                |                            |
+|   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | NLP for detecting Bias                                         |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                             | 09/30 Holiday  | Introduction, Team matching |
-|   6   | 10/05, 10/07              | Lecture  4<br/> Discussion 4 | AI for Social Good                                             | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
-|   7   | 10/12, 10/14              | Lecture  5<br/> Discussion 5 | AI for Social Good                                              |                |                            |
-|   8   | 10/19, 10/22              |           -           | AI as Big Brother                                              |                   | Proposal, Peer-review                   |
-|   9   | 10/26, 10/28              | Lecture  6<br/> Discussion 6 | AI as Big Brother                                 |                |                 |
-|   10  | 11/02, 11/04              | Lecture  7<br/> Discussion 7 | Effect on Jobs and Economy                                     |                |                            |
-|   11  | 11/09, 11/11              | Lecture  8<br/> Discussion  8 | Effect on Jobs and Economy                                  |                |                            |
-|   12  | 11/16, 11/18              | Lecture 9<br/> Discussion 9 | Interpretability and Fairness                                  |                | Progress Update, Peer-review                |
-|   13  | 11/23, 11/25              | Lecture 10<br/> Discussion 10 | Interpretability and Fairness                               |                |                     |
+|   6   | 10/05, 10/07              | Lecture  3<br/> Discussion 5 | AI for Social Good                                             | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
+|   7   | 10/12, 10/14              | Discussion 6<br/> Discussion 7 | AI for Social Good                                              |                |                            |
+|   8   | 10/19, 10/22              | Lecture  4<br/> Discussion 8 | AI as Big Brother                                              |                   | Proposal, Peer-review                   |
+|   9   | 10/26, 10/28              | Lecture  9<br/> Discussion 10 | AI as Big Brother                                 |                |                 |
+|   10  | 11/02, 11/04              | Lecture  5<br/> Discussion 11 | Effect on Jobs and Economy                                     |                |                            |
+|   11  | 11/09, 11/11              | Discussion 12 <br/> Discussion  13 | Effect on Jobs and Economy                                  |                |                            |
+|   12  | 11/16, 11/18              | Lecture 9<br/> Discussion 14 | Interpretability and Fairness                                  |                | Progress Update, Peer-review                |
+|   13  | 11/23, 11/25              | Lecture 15<br/> Discussion 16 | Interpretability and Fairness                               |                |                     |
 | 14, 15 | 11/30, 12/02 12/07, 12/09 |           -           | Project presentation                                          |                |                            |
 |   16  | 12/14, 12/16              |           -           | No final                                                       |     No Class   | Final presentation Peer-review          |
 
@@ -51,7 +51,8 @@ The course consists of lectures and discussions.
 Experts from around the world in AI and Ethics will give special virtual lectures.  
 Most of the lectures will be moderated by the main lecturer (Alice Oh) in the form of questions and answers about the lecturers’ publications.  
 Because of the time difference, some lectures will be pre-recorded.  
-Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Richard Zemel (University of Toronto)](http://www.cs.toronto.edu/~zemel/inquiry/home.php) on bias in NLP, and [Been Kim (Google)](https://beenkim.github.io/) on the topic of interpretable AI 
+Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, and additional guests will be added.
+%[Richard Zemel (University of Toronto)](http://www.cs.toronto.edu/~zemel/inquiry/home.php) on bias in NLP, and [Been Kim (Google)](https://beenkim.github.io/) on the topic of interpretable AI 
 
 ### Reading
 
@@ -69,7 +70,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 
 - n in-class discussion (see schedule)
 - Organize a group of 3~4 people, and have time to present what you read and discuss
-- **If you actively and honestly participate in every discussion you will get at least B**
+- (All/Half) of groups present your discussion result to the peers at the end of class
 
 ### Team Projects
 
@@ -80,21 +81,17 @@ You will present and discuss ideas for future research directions in AI and ethi
 
 ## Evaluation
 
-* x In-Class Discussion : x%
+ **If you actively and honestly participate in every discussion and project you will get at least B**
 
-    **If you actively and honestly participate in every discussion you will get at least B**
+* x In-Class Discussion : 40%
 
-* 4-8 Pop Quizzes : x%
-* Project : x%
-  * Proposal presentation : x%
-  * Progress presentation : x%
-  * Final presentation: x%
-  * Final report : x%
-  * Peer grading : x%
+* Project : 50%
   * Team work: x%
-
+  
     **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
+    
+* Peer grading : 10%
 
-## Textbook
+## Additional references
 
 - Fairness in Machine Learning by Solon Barocas, Moritz Hardt, and Arvind Narayanan
