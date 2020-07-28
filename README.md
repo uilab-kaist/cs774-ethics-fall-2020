@@ -25,15 +25,15 @@
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 08/31, 09/02              |          -        | Introduction, Bias of AI/ML Systems                                | Online Lecture |                            |
 |   2   | 09/07, 09/09              | Lecture  1<br/> Discussion 1 | Bias of AI/ML Systems                                   |                |                            |
-|   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                  |                 |                            |
-|   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | NLP for detecting Bias                                |                |                            |
+|   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | Effect on Jobs and Economy                                  |                 |                            |
+|   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | Effect on Jobs and Economy                                |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                            | 09/30 Holiday  | Introduction, Team matching |
 |   6   | 10/05, 10/07              | Lecture  3<br/> Discussion 5 | AI for Social Good                                      | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
 |   7   | 10/12, 10/14              | Discussion 6<br/> Discussion 7 | AI for Social Good                                    |                |                            |
 |   8   | 10/19, 10/22              | Lecture  4<br/> Discussion 8 | AI as Big Brother                                       |                   | Proposal, Peer-review   |
 |   9   | 10/26, 10/28              | Lecture  9<br/> Discussion 10 | AI as Big Brother                                      |                |                            |
-|   10  | 11/02, 11/04              | Lecture  5<br/> Discussion 11 | Effect on Jobs and Economy                             |   11/04 Guest Lecture 4:00pm <br/> Dirk Hovy   |                            |
-|   11  | 11/09, 11/11              | Discussion 12 <br/> Discussion  13 | Effect on Jobs and Economy                        |                |                            |
+|   10  | 11/02, 11/04              | Lecture  5<br/> Discussion 11 | NLP for detecting Bias                             |   11/04 Guest Lecture 4:00pm <br/> Dirk Hovy   |                            |
+|   11  | 11/09, 11/11              | Discussion 12 <br/> Discussion  13 | NLP for detecting Bias                        |                |                            |
 |   12  | 11/16, 11/18              | Lecture 9<br/> Discussion 14 | Interpretability and Fairness                           |                | Progress Update, Peer-review                |
 |   13  | 11/23, 11/25              | Lecture 15<br/> Discussion 16 | Interpretability and Fairness                          |                |                            |
 | 14, 15 | 11/30, 12/02 12/07, 12/09 |           -           | Project presentation                                           |                |                          |
