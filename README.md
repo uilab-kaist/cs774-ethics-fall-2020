@@ -47,7 +47,7 @@ The course consists of lectures and discussions.
 Experts from around the world in AI and Ethics will give special virtual lectures.  
 Most of the lectures will be moderated by the main lecturer (Alice Oh) in the form of questions and answers about the lecturers’ publications.  
 Because of the time difference, some lectures will be pre-recorded.  
-Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](www.dirkhovy.com) on the topic of Predictive Bias in NLP, and additional guests will be added.
+Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](https://www.dirkhovy.com) on the topic of Predictive Bias in NLP, and additional guests will be added.
 
 ### Reading
 
