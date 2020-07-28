@@ -36,7 +36,7 @@
 |   11  | 11/09, 11/11              | Discussion 12 <br/> Discussion  13 | Effect on Jobs and Economy                        |                |                            |
 |   12  | 11/16, 11/18              | Lecture 9<br/> Discussion 14 | Interpretability and Fairness                           |                | Progress Update, Peer-review                |
 |   13  | 11/23, 11/25              | Lecture 15<br/> Discussion 16 | Interpretability and Fairness                          |                |                            |
-| 14, 15 | 11/30, 12/02 12/07, 12/09 |           -           | Project presentation                              =             |                |                          |
+| 14, 15 | 11/30, 12/02 12/07, 12/09 |           -           | Project presentation                                           |                |                          |
 |   16  | 12/14, 12/16              |           -           | No final                                                       |     No Class   | Final presentation Peer-review |
 
 ## Course
@@ -54,7 +54,7 @@ Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac
 Students will read,  present,  and think about latest research from the reading list which is published in AI  and  ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.  
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
 
-- Choose a paper related to the subject of the previous lecture from the [reading list](https://docs.google.com/document/d/1oL3aBkflgKoGymlpFqhx81fXZrKKOWh0lk2PfPTCdDU/edit?usp=sharing)
+- Choose a paper related to the subject of the previous lecture from the [reading list](https://docs.google.com/document/d/1oL3aBkflgKoGymlpFqhx81fXZrKKOWh0lk2PfPTCdDU/edit?usp=sharing) (editing ...)
 - Read the paper before the discussion and prepare some questions to be discussed
 
 ### Discussion
