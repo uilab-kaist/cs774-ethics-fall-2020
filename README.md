@@ -72,7 +72,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 - Team project will be a major part of the class, especially during the second half
 - Projects will be basically replication/modifications of recent research in bias in AI/ML
 - More details will be described in the document below
-- https://uilab-kaist.github.io/cs774-ethics-fall-2020/project
+- https://uilab-kaist.github.io/cs774-ethics-fall-2020/project (Not available right now)
 
 ## Evaluation
 
