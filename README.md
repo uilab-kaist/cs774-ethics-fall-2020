@@ -25,7 +25,7 @@
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 08/31, 09/02              |          -        | Introduction, Bias of AI/ML Systems                                | Online Lecture |                            |
 |   2   | 09/07, 09/09              | Lecture  1<br/> Discussion 1 | Bias of AI/ML Systems                                   |                |                            |
-|   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                  |                |                            |
+|   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | NLP for detecting Bias                                  | Guest Lecture (Time: TBA) <br/> Dirk Hovy|                            |
 |   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | NLP for detecting Bias                                |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                            | 09/30 Holiday  | Introduction, Team matching |
 |   6   | 10/05, 10/07              | Lecture  3<br/> Discussion 5 | AI for Social Good                                      | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
