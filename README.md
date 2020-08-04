@@ -75,14 +75,14 @@ You will present and discuss ideas for future research directions in AI and ethi
 - More details will be described in the document below
 - https://uilab-kaist.github.io/cs774-ethics-fall-2020/project (Not available right now)
 
-## Evaluation
+## Evaluation(Subject to be changed)
 
- **If you actively and honestly participate in every discussion and project you will get at least B**
+ **If you actively and honestly participate in every discussion you will get at least B- (Project will be be a way to divide A+~B- in this case)**
 
 * 16 In-Class Discussion : 40%
 
 * Project : 50%
-
+  
     **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
 
 * Peer grading : 10%
