@@ -75,7 +75,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 - More details will be described in the document below
 - https://uilab-kaist.github.io/cs774-ethics-fall-2020/project (Not available right now)
 
-## Evaluation(Subject to be changed)
+## Evaluation(Subject to change)
 
  **If you actively and honestly participate in every discussion you will get at least B- (Project will be be a way to divide A+~B- in this case)**
 
