@@ -29,7 +29,7 @@
 |   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | Effect on Jobs and Economy                                |                |                            |
 |   5   | 09/28, 09/30              | Project               | Project Description                                            | 09/30 Holiday  | Introduction, Team matching |
 |   6   | 10/05, 10/07              | Lecture  3<br/> Discussion 5 | AI for Social Good                                      | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
-|   7   | 10/12, 10/14              | Discussion 6<br/> Discussion 7 | AI for Social Good                                    |                |                            |
+|   7   | 10/12, 10/14              | Discussion 6<br/> Discussion 7 | AI for Social Good                                    | 10/14 Guest Lecture 9:00am <br/> Kyunghyun Cho |                            |
 |   8   | 10/19, 10/22              |           -            | Mid-term                                       |                   | Proposal, Peer-review   |
 |   9   | 10/26, 10/28              | Lecture  4<br/> Discussion 8 | NLP for detecting Bias                                      |                |                            |
 |   10  | 11/02, 11/04              | Discussion  9<br/> Discussion 10 | NLP for detecting Bias                             |   11/04 Guest Lecture 4:00pm <br/> Dirk Hovy   |                            |
@@ -48,7 +48,7 @@ The course consists of lectures and discussions.
 Experts from around the world in AI and Ethics will give special virtual lectures.  
 Most of the lectures will be moderated by the main lecturer (Alice Oh) in the form of questions and answers about the lecturers’ publications.  
 Because of the time difference, some lectures will be pre-recorded.  
-Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](http://www.dirkhovy.com) on the topic of Predictive Bias in NLP, and additional guests will be added.
+Possible lecturers include [Joanna Bryson (Hertie School)](http://www.cs.bath.ac.uk/~jjb/) on the topic of general AI Ethics, [Shakir Mohamed (DeepMind)](https://shakirm.com/) on the topic of diversity and inclusion in AI, [Dirk Hovy(Bocconi University)](http://www.dirkhovy.com) on the topic of Predictive Bias in NLP, [Kyunghyun Cho (New York University)](https://kyunghyuncho.me/), and additional guests will be added.
 
 ### Reading
 
