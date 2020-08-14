@@ -77,7 +77,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 
 ## Evaluation(Subject to change)
 
- **If you actively and honestly participate in every discussion you will get at least B- (Project will be be a way to divide A+~B- in this case)**
+ **If you actively and honestly participate in every discussion and do the project you will get at least B- (Project will be be a way to divide A+~B- in this case)**
 
 * 16 In-Class Discussion : 40%
 
