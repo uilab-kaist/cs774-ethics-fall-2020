@@ -41,6 +41,7 @@ This is a team-based project. Please form teams of **1-2 students** by **28 Sep*
 - Machine learning conferences: **NeurIPS, ICML, ICLR, IJCAI, AAAI**
 - NLP/Computer vision conferences: **ACL, EMNLP, NAACL, ICCV, CVPR**
 - Data mining conferences: **KDD, CIKM, WSDM**
+- AI fairness conferences: **FAccT(FAT)**
 
 ## Project Proposal
 Give a **5-8 minute proposal presentation** that includes the following:
