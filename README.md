@@ -12,7 +12,7 @@
 
 ## Time & Location
 - Mon/Wed 13:00 - 14:30
-- <s>#2111, E3-1 (Information Science and Electronics Bldg.)</s> ZOOM (link: TBA)
+- <s>#2111, E3-1 (Information Science and Electronics Bldg.)</s> [ZOOM](https://kaist.zoom.us/j/97882687849?pwd=RHgzdE85SGVYaGxxTDd1L0R3OWFrUT09)
 - If there is a guest lecture, lecture time may change flexibly such as 4:00pm ~ 5:30pm
 
 ## Prerequisites  
