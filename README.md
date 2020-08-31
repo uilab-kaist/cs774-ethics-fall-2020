@@ -23,7 +23,7 @@
 
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | [08/31](contents/2020_cs774_lecture1.pdf), 09/02              |          -        | Introduction, Bias of AI/ML Systems                                | [Reading Material(~13:00 09/07)](contents/Z_Big_Datas_Disparate_Impacts.pdf) |                            |
+|   1   | [08/31](contents/2020_cs774_lecture1.pdf), 09/02              |          -        | Introduction, Bias of AI/ML Systems                                | [Reading Material(~13:00 09/07)](contents/Z_Big_Datas_Disparate_Impacts.pdf) - **Only chapter 1** |                            |
 |   2   | 09/07, 09/09              | Lecture  1<br/> Discussion 1 | Bias of AI/ML Systems                                   |                |                            |
 |   3   | 09/14, 09/16              | Lecture  2 <br/>Discussion 2 | Effect on Jobs and Economy                                  |                 |                            |
 |   4   | 09/21, 09/23              | Discussion 3<br/> Discussion 4 | Effect on Jobs and Economy                                |                |                            |
