@@ -36,7 +36,7 @@ This is a team-based project. Please form teams of **2 students** by **28 Sep**.
 - **Peer grading**: <s>5</s> 4 peer gradings for proposal, progress, final presentation, <s>slides,</s> and final report
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
-## Venue
+## Instruction
 **Choose a paper in reading list.** 
 Based on the paper, there are two options you can choose:
 1. Replicate their method and apply to your own research. If there is a bias in your work, you have to think about how to reduce it.
