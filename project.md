@@ -11,10 +11,10 @@
 - Week 16 (12/14, 12/16): **Final presentation, Final report, Peer grading, Teamwork report**
 
 ## Goal
-This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of machine learning model, features, datasets, evaluation metrics or baseline comparisons.
+This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of bias in machine learning model, features, datasets, evaluation metrics or baseline comparisons.
 
 ## Teams
-This is a team-based project. Please form teams of **1-2 students** by **28 Sep**. If you need help forming teams, advertise yourself and find your teammate in **KLMS # proj-team-matching**.
+This is a team-based project. Please form teams of **2 students** by **28 Sep**. If you need help forming teams, advertise yourself and find your teammate in **KLMS # proj-team-matching**.
 
 ## Project Grading (50% of Course Grade)
 - **Proposal presentation**: 5%
@@ -28,7 +28,7 @@ This is a team-based project. Please form teams of **1-2 students** by **28 Sep*
 
 
 ## Deliverables
-**All project team members should present an important part in the presentation (speak for at least one minute each)**. You should record your presentation with the **slide and your face**, and upload the video to **YouTube/OpenReview(TBD)**. We recommend you to use [Zoom](https://zoom.us/) (or [Loom](https://www.loom.com/)) for recording. The detailed instruction will be noticed later.
+**All project team members should present an important part in the presentation (speak for at least one minute each)**. You should present your work in presentation session. The detailed instruction will be noticed later.
 - **Proposal presentation**: 5-8 minute presentation
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
@@ -36,12 +36,12 @@ This is a team-based project. Please form teams of **1-2 students** by **28 Sep*
 - **Peer grading**: <s>5</s> 4 peer gradings for proposal, progress, final presentation, <s>slides,</s> and final report
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
-## Venue
-**Choose a topic and at least 3 papers** published at the following conferences from **2017**. Among these three papers, choose one as your replication paper, and the others as comparison papers.
-- Machine learning conferences: **NeurIPS, ICML, ICLR, IJCAI, AAAI**
-- NLP/Computer vision conferences: **ACL, EMNLP, NAACL, ICCV, CVPR**
-- Data mining conferences: **KDD, CIKM, WSDM**
-- AI fairness conferences: **FAccT(FAT)**
+## Instruction
+**Choose a paper in reading list.** 
+Based on the paper, there are two options you can choose:
+1. Replicate their method and apply to your own research. If there is a bias in your work, you have to think about how to reduce it.
+2. Replicate their method and improve it. You have to find problem of existing work and try to alleviate it.
+
 
 ## Project Proposal
 Give a **5-8 minute proposal presentation** that includes the following:
@@ -76,11 +76,11 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - **References** (unlimited pages)
 
 ## Peer Grading
-- We will probably use OpenReview and/or Google form (TBD)
+- We will probably use Google form (TBD) and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - x proposal presentations
-  - x progress presentations
-  - x final presentations & reports
+  - 9 proposal presentations
+  - 9 progress presentations
+  - 9 final presentations & reports
 
 ## Teamwork Report
 - We will use Google form (TBD)
