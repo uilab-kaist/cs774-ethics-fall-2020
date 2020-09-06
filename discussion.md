@@ -29,3 +29,26 @@
 |  13  |11/25|Discussion 9 |Interpretability, Fairness|           |           |
 |  14  |11/30|Discussion 10|Interpretability, Fairness|           |           |
 |  14  |12/02|Guest Lecture|      Shakir Mohamed      |           |           |
+
+## Team
+
+Each team consists of two student. The team will be the same when working on a project.
+- Team registration
+Each team should lead one discussion session which they are assigned.
+- Paper assignment
+
+## Before Discussion
+
+Everyone should read selected papers before discussion.
+The team leading discussion should prepare the discussion prompt.
+
+## Discussion 
+
+Every discussion consists of two phases:
+1. Presentation for the papers
+2. The class divided into small groups(5 people) and do discussion starting from the prompt.
+
+## After the Discussion
+
+Everyone should submit a page long review and discussion result.
+
