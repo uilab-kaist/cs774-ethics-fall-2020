@@ -1,6 +1,7 @@
-#Discussion
+# Discussion
 
 ## Schedule (Subject to Change)
+
 | Week |  Day  |     Type      |           Topic            |  Assignees |  Papers   |
 |:----:|:-----:|:-------------:|:--------------------------:|:---------:|:----------:|
 |   2  | 09/14 | Discussion    |   Bias of AI/ML Systems    |           |           |
