@@ -38,7 +38,7 @@ Each team consists of two student. The team will be the same when working on a p
 - [Team registration](https://forms.gle/32aqadwgsmQRHBLD8)
 
 Each team should lead one discussion session which they are assigned.
-- [Paper assignment](http://bit.ly/2020cs774_discussion)
+- [Paper assignment]()
 
 ## Before Discussion
 
