@@ -34,7 +34,9 @@
 ## Team
 
 Each team consists of two student. The team will be the same when working on a project.
-- Team registration
+
+- [Team registration](https://forms.gle/32aqadwgsmQRHBLD8)
+
 Each team should lead one discussion session which they are assigned.
 - Paper assignment
 
