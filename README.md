@@ -24,19 +24,19 @@
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | [08/31](contents/2020_cs774_lecture1.pdf), 09/02              |          Lecture 1       | Introduction                                 | [Google Survey](https://forms.gle/NTZx5k72Q1RgyDMq8) <br/> [Reading Material(~13:00 09/07)](contents/Z_Big_Datas_Disparate_Impacts.pdf) - **Only chapter 1** |                            |
-|   2   | 09/07, 09/09              | Lecture  2<br/> Discussion 1 | Bias of AI/ML Systems                                   |                |                            |
-|   3   | 09/14, 09/16              | Discussion  2 <br/>Discussion 3 | Bias on AI/ML Systems                                  |                 |                            |
-|   4   | 09/21, 09/23              | Lecture 3<br/> Discussion 4 | Societal Impact                                |                |                            |
-|   5   | 09/28, 09/30              | Discussion 5<br/> Project               | Societal Impact / Project Description                                            | 09/30 Holiday  | Introduction, Team matching |
-|   6   | 10/05, 10/07              | Discussion 6<br/> Lecture  4 | AI for Social Good                                      | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
-|   7   | 10/12, 10/14              | Discussion 7<br/>Lecture 5 | AI for Social Good                                    | 10/14 Guest Lecture 9:00am <br/> Kyunghyun Cho |                            |
-|   8   | 10/19, 10/22              |           -            | Mid-term                                       |                   | Proposal, Peer-review   |
-|   9   | 10/26, 10/28              | Lecture  6<br/> Discussion 8 | NLP for detecting Bias                                      |                |                            |
-|   10  | 11/02, 11/04              | Discussion 9<br/> Lecture 7 | NLP for detecting Bias                             |   11/04 Guest Lecture 4:00pm <br/> Dirk Hovy   |                            |
-|   11  | 11/09, 11/11              | Lecture  8<br/> Discussion 10 | AI as Big Brother                        |                |                            |
-|   12  | 11/16, 11/18              | Discussion 11 <br/> Discussion  12 | AI as Big Brother                           |                | Progress Update, Peer-review                |
-|   13  | 11/23, 11/25              | Lecture 8<br/> Discussion 13  | Interpretability and Fairness                          |                |                            |
-|   14  | 11/30, 12/02               | Discussion 14<br/> Discussion 15 | Interpretability and Fairness                          |                |                            |
+|   2   | 09/07, 09/09              | Discussion <br/> Discussion | Bias of AI/ML Systems                                   |                |   Team matching              |
+|   3   | 09/14, 09/16              | Discussion  1 <br/> Lecture 2 | Bias on AI/ML Systems  <br/>   Societal Impact           |                 |                            |
+|   4   | 09/21, 09/23              | Discussion  2<br/> Lecture 3 | Societal Impact  <br/> AI for Social Good              |                |                            |
+|   5   | 09/28, 09/30              | Project <br/> -              | Societal Impact / Project Description                                            | 09/30 Holiday  | Introduction |
+|   6   | 10/05, 10/07              | Discussion  3 <br/> Lecture  4 | AI for Social Good                                      | 10/07 Guest Lecture 4:00pm <br/> Joanna Bryson |                            |
+|   7   | 10/12, 10/14              | Discussion  4 <br/> Lecture 5 | AI for Social Good                                    | 10/14 Guest Lecture 9:00am <br/> Kyunghyun Cho |                            |
+|   8   | 10/19, 10/22              | Presentation <br/> -            | Proposal <br/>  Mid-term                                       |                   | Proposal, Peer-review   |
+|   9   | 10/26, 10/28              | Lecture  6 <br/> Discussion 5 | NLP for detecting Bias                                      |                |                            |
+|   10  | 11/02, 11/04              |Discussion 6 <br/> Lecture 7 | NLP for detecting Bias                             |   11/04 Guest Lecture 4:00pm <br/> Dirk Hovy   |                            |
+|   11  | 11/09, 11/11              | Lecture  8<br/> Discussion 7 | AI as Big Brother                        |                |                            |
+|   12  | 11/16, 11/18              | Presentation <br/> Discussion  8 | Progress Update <br/> AI as Big Brother                           |                | Progress Update, Peer-review                |
+|   13  | 11/23, 11/25              | Lecture 9<br/> Discussion 9  | Interpretability and Fairness                          |                |                            |
+|   14  | 11/30, 12/02               | Discussion 10 <br/> Lecture  7 | Interpretability and Fairness                          |                |                            |
 | 15 | 12/07, 12/09 |           -           | Project presentation                                           |                |                          |
 |   16  | 12/14, 12/16              |           -           | No final                                                       |     No Class   | Final presentation Peer-review |
 
