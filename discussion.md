@@ -1,4 +1,4 @@
-# Discussion
+#Discussion
 
 ## Schedule (Subject to Change)
 | Week |  Day  |     Type      |           Topic            |  Assignees |  Papers   |
