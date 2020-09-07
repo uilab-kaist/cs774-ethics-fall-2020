@@ -2,6 +2,9 @@
 
 > Please send email to cs774.ethics.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
+## Announcement
+Join slack channel: [Invitation Link](https://join.slack.com/t/cs774aiethics2020/shared_invite/zt-hcfgmqj5-QIdtCT7JfyT4vxGlOcqHZA)
+
 ## Teaching Staff
 
 - Lecturer: [Alice Oh](https://aliceoh9.github.io/)
