@@ -53,5 +53,5 @@ Every discussion consists of two phases:
 
 ## After the Discussion
 
-Everyone should submit a page long review and discussion result.
+Every team should submit discussion result using google form.
 
