@@ -1,10 +1,11 @@
 #Discussion
 
 ## Schedule (Subject to Change)
+
 | Week |  Day  |     Type      |           Topic            |  Assignees |  Papers   |
 |:----:|:-----:|:-------------:|:--------------------------:|:---------:|:----------:|
-|   2  | 09/14 | Discussion    |   Bias of AI/ML Systems    |           |           |
-|   2  | 09/16 | Discussion    |   Bias of AI/ML Systems    |           |           |
+|   2  | 09/07 | Discussion    |   Bias of AI/ML Systems    |           |           |
+|   2  | 09/09 | Discussion    |   Bias of AI/ML Systems    |           |           |
 |   3  | 09/14 | Discussion 1  |   Bias of AI/ML Systems    |           |           |
 |   3  | 09/16 | Lecture       |       Societal Impact      |           |           |
 |   4  | 09/21 | Discussion 2  |       Societal Impact      |           |           |
