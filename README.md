@@ -2,6 +2,9 @@
 
 > Please send email to cs774.ethics.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
+## Announcement
+Join slack channel: [Invitation Link](https://join.slack.com/t/cs774aiethics2020/shared_invite/zt-hcfgmqj5-QIdtCT7JfyT4vxGlOcqHZA)
+
 ## Teaching Staff
 
 - Lecturer: [Alice Oh](https://aliceoh9.github.io/)
@@ -64,9 +67,10 @@ Students will lead peers to discuss the readings with thought-provoking question
 You will challenge the findings in the articles as to their accurate reporting and interpretation;  you will discuss relevance to the current time and various locales with different cultural backgrounds.  
 You will present and discuss ideas for future research directions in AI and ethics.
 
-- 16 in-class discussion (see schedule)
-- Organize a group of 3~4 people, and have time to present what you read and discuss (you can use Korean if everyone is comfortable with Korean)
-- (All/Half) of groups present your discussion result to the peers at the end of class (depends on registration) and submit your questions and answers as pdf file until midnight.
+- 12 in-class discussion (see schedule)
+- Organize a group of 5~6 people, and have time to present what you read and discuss (you can use Korean if everyone is comfortable with Korean)
+- All groups should submit their result at the end of class.
+- See the details on this [page](https://uilab-kaist.github.io/cs774-ethics-fall-2020/discussion)
 
 ### Team Projects
 

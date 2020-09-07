@@ -1,4 +1,4 @@
-#Discussion
+# Discussion
 
 ## Schedule (Subject to Change)
 
@@ -34,7 +34,9 @@
 ## Team
 
 Each team consists of two student. The team will be the same when working on a project.
-- Team registration
+
+- [Team registration](https://forms.gle/32aqadwgsmQRHBLD8)
+
 Each team should lead one discussion session which they are assigned.
 - Paper assignment
 
@@ -51,5 +53,5 @@ Every discussion consists of two phases:
 
 ## After the Discussion
 
-Everyone should submit a page long review and discussion result.
+Every team should submit discussion result using google form.
 
