@@ -46,7 +46,7 @@ Based on the paper, there are two options you can choose:
 ## Project Proposal
 Give a **5-8 minute proposal presentation** that includes the following:
 - **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
-- **Related work**: What existing papers have dealt with this problem? What were their approaches? Discuss the three papers you’ve chosen here.
+- **Related work**: What existing papers have dealt with this problem? What were their approaches?
 - **Replication approach**: Which paper will you use for replication and why?
 - **Improvement approach**: How will you improve upon the replication paper?
 - **Data**: Describe the dataset you will use, even if it is the same one as in the replication paper. If the replication paper does not work with openly available data, explain how you will gather your own data. If using openly available data but you will work with a subset of the data, explain why and how you will select the subset.
