@@ -3,8 +3,8 @@
 ## Schedule
 - Week  5 (09/28): **Introduction, Team matching**
 - Week  8 (10/19, 10/22): **Project proposal, Peer grading**
-  - Proposal submission deadline: **(TBA)**
-  - Peer grading: **(TBA)**
+  - Proposal submission deadline: **23:59, October 19, 2020**
+  - Peer grading: **23:59, October 25, 2020**
 - Week 12 (11/16, 11/18): **Progress Update, Peer grading**
   - Progress submission deadline: **(TBA)**
   - Peer grading: **(TBA)**
