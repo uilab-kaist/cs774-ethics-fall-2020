@@ -40,8 +40,8 @@ Join slack channel: [Invitation Link](https://join.slack.com/t/cs774aiethics2020
 |   12  | 11/16, 11/18              | Presentation <br/> Discussion  8 | Progress Update <br/> AI as Big Brother                           |                | Progress Update, Peer-review                |
 |   13  | 11/23, 11/25              | Lecture 9<br/> Discussion 9  | Interpretability and Fairness                          |                |                            |
 |   14  | 11/30, 12/02               | Discussion 10 <br/> Lecture  7 | Interpretability and Fairness                          |                |                            |
-| 15 | 12/07, 12/09 |           -           | Project presentation                                           |                |                          |
-|   16  | 12/14, 12/16              |           -           | No final                                                       |     No Class   | Final presentation Peer-review |
+| 15 | 12/07, 12/09 |           -           |                                            |     No Class     |                          |
+|   16  | 12/14, 12/16              |           -           | Project presentation                                                       |       | Final presentation Peer-review |
 
 ## Course
 
