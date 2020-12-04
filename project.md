@@ -6,8 +6,7 @@
   - Proposal submission deadline: **23:59, October 19, 2020**
   - Peer grading: **23:59, October 25, 2020**
 - Week 12 (11/16, 11/18): **Progress Update, Peer grading**
-  - Progress submission deadline: **(TBA)**
-  - Peer grading: **(TBA)**
+  - Peer grading: Real-time
 - Week 16 (12/14, 12/16): **Final presentation, Final report, Peer grading, Teamwork report**
 
 ## Goal
@@ -78,9 +77,9 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 ## Peer Grading
 - We will probably use Google form (TBD) and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - 9 proposal presentations
-  - 9 progress presentations
-  - 9 final presentations & reports
+  - 6 proposal presentations
+  - 6 progress presentations
+  - 6 final presentations & reports
 
 ## Teamwork Report
 - We will use Google form (TBD)
