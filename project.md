@@ -82,10 +82,11 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
   - 6 final presentations & reports
 
 ## Teamwork Report
-- We will use Google form (TBD)
+- We will use Google form
 - Everyone should contribute, and everyone should learn something new
 - Everyone (individually) should write
   - Who did what for each task (proposal presentation, progress presentation, project presentation, final report) in detail
   - Any grievances
   - Any praises and special recognitions
-  - Due date: same as the final report
+  - Due date: same as the final report evaluation
+  
